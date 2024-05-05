@@ -23,15 +23,15 @@
 
 /* Navbar links */
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #FFFFFF;
     font-size: 16px;
     padding: 10px;
 }
 
 /* Navbar collapsed styles */
 .navbar-toggler {
-    color: #fff;
-    border-color: #FF6F61;
+    color: #FFFFFF;
+    border-color: #FFA17F;
     background-color: #4A90E2;
     border-radius: 4px;
     border: 2px solid;
@@ -43,7 +43,7 @@
 
 .navbar-toggler:hover,
 .navbar-toggler:focus {
-    background-color: #FF6F61;
+    background-color: #FFA17F; nju8
     color: white;
     fill: white;
     border-color: #fff;
@@ -72,14 +72,14 @@
 /*** CARD ***/
 
 .card {
-    background-color: #fff;
+    background-color: #FFFFFF;
     border-color: #cccccc;
     border-width: 1px;
     width: 100%;
 }
 
 .card:hover {
-    border-color: #ebd122;
+    border-color: #FFA17F;
 }
 
 /*** Basic Text Styles ***/
@@ -100,10 +100,11 @@ hr {
 
 p {
     font-size: 20px;
+    color: #2A4858;
 }
 
 a {
-    color: #863ee3;
+    color: #FFA17F;
 }
 
 a:hover {
