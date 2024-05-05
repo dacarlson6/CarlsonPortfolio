@@ -6,8 +6,7 @@
 }
 
 /* Navbar title */
-.navbar-default .navbar-brand,
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-brand {
     color: #FFFFFF;
     font-size: 18px;
     font-weight: bold;
@@ -18,7 +17,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #FFD1AF;
+    color: #FFA17F;
     text-decoration: none;
 }
 
