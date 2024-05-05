@@ -1,13 +1,14 @@
 /***** NAVBAR *****/
 
 .navbar {
-    background-color: #FFA17F;
+    background-color: #003366;
     border-radius: 0;
 }
 
 /* Navbar title */
-.navbar-default .navbar-brand {
-    color: #2A4858;
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: #FFFFFF;
     font-size: 18px;
     font-weight: bold;
 }
