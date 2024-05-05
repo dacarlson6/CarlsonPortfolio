@@ -1,14 +1,14 @@
 /***** NAVBAR *****/
 
 .navbar {
-    background-color: #4A90E2;
+    background-color: #FFA17F;
     border-radius: 0;
 }
 
 /* Navbar title */
 .navbar-default .navbar-brand {
-    color: white;
-    font-size: px;
+    color: #2A4858;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -17,7 +17,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #FF6F61;
+    color: #FFD1AF;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@
 .jumbotron {
     background-image: url("../assets/background3.jpg");
     text-align: center;
-    color: #fff;
+    color: #2A4858;
     padding: 3%;
     border-radius: 0px;
 }
@@ -116,7 +116,7 @@ a:hover {
 
 body {
 
-    font-family: 'Georgia', serif;
-    background-color: #f7f1fa;
-    color: #242424;
+    font-family: 'Arial', sans-serif;
+    background-color: #FFF8F0;
+    color: #2A4858;
 }
