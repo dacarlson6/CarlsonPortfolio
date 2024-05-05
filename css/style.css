@@ -17,7 +17,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ebd122;
+    color: #FF6F61;
     text-decoration: none;
 }
 
@@ -31,12 +31,12 @@
 /* Navbar collapsed styles */
 .navbar-toggler {
     color: #fff;
-    border-color: #fff;
-    background-color: #863ee3;
+    border-color: #FF6F61;
+    background-color: #4A90E2;
     border-radius: 4px;
-    border: 1px solid;
+    border: 2px solid;
     fill: #fff;
-    font-size: 16px;
+    font-size: 18px;
     position: relative;
     margin-right: 10px;
 }
