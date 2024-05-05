@@ -54,8 +54,6 @@
 
 .jumbotron {
     background-image: url("../assets/background.jpg");
-    background-size: cover;
-    background-position: center;
     text-align: center;
     color: #fff;
     padding: 3%;
