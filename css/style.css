@@ -43,9 +43,9 @@
 
 .navbar-toggler:hover,
 .navbar-toggler:focus {
-    background-color: #ebd122;
-    color: #242424;
-    fill: #242424;
+    background-color: #FF6F61;
+    color: white;
+    fill: white;
     border-color: #fff;
 
 }
